@@ -1,0 +1,5 @@
+Hello world, this is a sample log file.
+It contains multiple lines of text.
+Each line will be processed by our application.
+File I/O and exception handling in C# is straightforward.
+This is the last line of the file.
