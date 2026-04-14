@@ -1,12 +1,9 @@
 ﻿using System;
 
 
-namespace Task1
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
+namespace Task1{
+    class Program{
+        static void Main(string[] args){
             Console.Write("Enter a positive integer: ");
             int input = Convert.ToInt32(Console.ReadLine());
 
@@ -22,12 +19,10 @@ namespace Task1
             Console.WriteLine($"Factorial of {input} is {factorial}");
         }
         
-        static long CalculateFactorial(int n)
-        {
+        static long CalculateFactorial(int n){
             long result = 1;
 
-            for (int i = 2; i <= n; i++)
-            {
+            for (int i = 2; i <= n; i++){
                 result *= i;
             }
 
