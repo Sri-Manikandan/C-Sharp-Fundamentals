@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 
 
-namespace Task3{
+namespace task3{
     class Program{
         static List<string> items = new List<string>();
 

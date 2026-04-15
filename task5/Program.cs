@@ -3,7 +3,7 @@ using System.IO;
 using System.Linq;
 
 
-namespace Task5{
+namespace task5{
     class Program{
         static void Main(string[] args){
             string inputFile  = "input.txt";

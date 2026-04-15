@@ -1,7 +1,7 @@
 ﻿using System;
 
 
-namespace Task1{
+namespace task1{
     class Program{
         static void Main(string[] args){
             Console.Write("Enter a positive integer: ");
